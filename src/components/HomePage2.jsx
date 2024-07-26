@@ -56,14 +56,14 @@ const HomePage2 = () => {
             Coming Soon <FontAwesomeIcon icon={faArrowRight} className="ml-2" />
           </button>
         </div>
-        <div className="bg-green-400 bg-opacity-90 p-4 rounded-lg text-center relative">
+        <div className="bg-green-400 bg-opacity-90 p-4 rounded-lg text-center">
           <h3 className="text-2xl font-semibold text-white">Validators</h3>
           <p className="mt-2 mb-10 text-white">
             Validators will be responsible for validating the execution of dCDN
             Network. Validators earn rewards from Staking and earn a cut on the
             executions validated.
           </p>
-          <button className="mt-4 bg-green-400 hover:bg-green-500 text-white font-bold py-2 px-4 mx-8 rounded-full flex items-center absolute bottom-4 right-2">
+          <button className="mt-4 bg-green-400 hover:bg-green-500 text-white font-bold py-2 px-4 mx-8 rounded-full flex items-center">
             Coming Soon <FontAwesomeIcon icon={faArrowRight} className="ml-2" />
           </button>
         </div>
